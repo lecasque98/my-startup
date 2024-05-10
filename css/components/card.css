@@ -3,6 +3,7 @@
   align-items: center;
   justify-content: space-between;
 	padding: 20px;
+  box-shadow: 0px 10px 30px grey;
 }
 .card img {
   width: 150px;
