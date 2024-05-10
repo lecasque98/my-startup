@@ -1,0 +1,12 @@
+.btn-red {
+	background-color: red;
+	border-radius: 4px;
+	font-weight: bold;
+	color: white;
+	text-decoration: none;
+	padding: 15px 20px;
+
+}
+.btn-red:hover {
+	background-color: skyblue;
+}

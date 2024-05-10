@@ -1,0 +1,17 @@
+.banner {
+	background-image: linear-gradient(0deg, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),url("../../images/sky.jpeg");
+	padding: 150px 0px;
+	color: whitesmoke;
+	background-size: cover;
+	background-position: center;
+}
+.banner h1 {
+	font-size: 60px;
+	color: darkgrey;
+}
+.banner h2 {
+	color: darkblue;
+	font-weight: lighter;
+	font-family:"MuseoModerno", sans-serif;
+	margin-bottom: 30px;
+}
